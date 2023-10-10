@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.26)
-project(MRE)
+project(BrokenRegex)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(MRE main.cpp)
+add_executable(BrokenRegex main.cpp)
